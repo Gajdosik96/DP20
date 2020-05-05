@@ -1,6 +1,6 @@
 # Segmentácia
 
-Inštalácia prostredia:
+Príprava prostredia, inštalácia hlavných knižníc:
 
 ```python
 pip install -r requirements.txt
