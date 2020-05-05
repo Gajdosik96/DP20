@@ -18,4 +18,5 @@ pip install -r requirements.txt
 
 ## Zdroj
 [1] https://www.fast.ai/
+
 [2] https://github.com/opencv/cvat
