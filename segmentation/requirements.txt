@@ -1,0 +1,16 @@
+ffmpeg_python==0.1.17
+youtube_dl==2019.11.5
+fastai==1.0.58
+matplotlib==3.1.1
+torchvision==0.4.2
+numpy==1.18.1
+requests==2.22.0
+opencv_python==4.1.1.26
+ffmpeg==1.4
+ipython==7.13.0
+Pillow==7.1.1
+jupyter-client==5.3.4
+jupyter-core==4.6.1
+jupyterlab==1.2.3
+jupyterlab-server==1.0.6
+torch==1.2.0
