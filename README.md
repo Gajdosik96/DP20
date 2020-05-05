@@ -3,7 +3,7 @@ Zdrojový kód k diplomovej práci "Modifikácia vstupných vzorov zosnímaných
 
 Zverejnenie postupu práce mojej implementácie. Implementácia je rozdelená do viacerých fáz. Návrh riešenia:
 
-![](pic/procesNavrh.png)
+![Ilustrácia návrhu riešenia.](pic/procesNavrh.png)
 
 ## 1. Segmentácia
 - [x] Predspracovania vstupného dataset-u. Využitie sietí v tvare "U".
