@@ -13,6 +13,7 @@ pip install -r requirements.txt
   Proces trénovania je implementovaný pomocou interaktívneho Jupyter prostredia [trainColorModel.ipynb].
   
   **Hardvér**
+  
   Veľkosť trénovacích batchov je priamoúmerne spojená so záťažou pämate GPU/RAM. Náše trénvoanie prebehlo na vysoko-výkonných server grafike/procesore. 
 
 ## Model
