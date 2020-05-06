@@ -6,7 +6,7 @@ Príprava prostredia, inštalácia hlavných knižníc:
 pip install -r requirements.txt
 ```
 ## Dataset
-  Vytvorenie trénovacích/validačných/testovacích dát prebehlo pomocou CVAT nástroja.
+  Vytvorenie trénovacích/validačných/testovacích dát prebehlo pomocou CVAT nástroja. Použitý súkromný dataset.
 
 ## Trénovanie
   Proces trénovanie je implementovaný pomocou interaktívneho Jupyter prostredia [UNET-dp.ipynb].
