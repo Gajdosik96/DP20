@@ -1,7 +1,6 @@
 from fastai.vision import *
 from fastai.vision.learner import cnn_config
 from .unet import DynamicUnetDeep, DynamicUnetWide
-from .loss import FeatureLoss
 from .dataset import get_dummy_databunch
 
 # Weights are implicitly read from ./models/ folder
