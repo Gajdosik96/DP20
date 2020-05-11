@@ -6,7 +6,6 @@ Príprava prostredia, inštalácia hlavných knižníc:
 pip install -r requirements.txt
 ```
 ## Dataset
-  Vytvorenie trénovacích/validačných/testovacích dát prebehlo pomocou CVAT nástroja. 
   Odporučanie využiť dataset s variabilným súborom farebných forografii napr. *ImageNet* [[Link](http://www.image-net.org/)], *COCO* [[Link](http://cocodataset.org/)] a pod.
 
 ## Trénovanie
