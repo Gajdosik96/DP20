@@ -23,4 +23,5 @@ Zverejnenie postupu práce mojej implementácie. Implementácia je rozdelená do
 - [x] Výber metriky.
 - [x] Vykresliť výstupy.
 
-@Martin Gajdoš
+---
+                                                            Martin Gajdoš
