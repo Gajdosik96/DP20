@@ -14,3 +14,4 @@ jupyter-core==4.6.1
 jupyterlab==1.2.3
 jupyterlab-server==1.0.6
 torch==1.2.0
+jupyter==1.0.0 
