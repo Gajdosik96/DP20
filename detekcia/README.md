@@ -5,11 +5,18 @@ Príprava prostredia, inštalácia hlavných knižníc:
 ```python
 pip install -r requirements.txt
 ```
-Stiahnutie repozitára na detekciu tváre pomocou konvolúcie:
+## Model
+  Dlib model dostupný v knižnici po inštalácii:
 
-```python
-git clone https://github.com/deepinsight/insightface
-```
+  ```python
+  pip install dlib
+  ```
+  
+  MTCNN model dostupný v knižnici po inštalácii:
+
+  ```python
+  pip install mtcnn
+  ```
 
 ## Dataset
   Anotácia pravdivej zložky prebehla pomocou CVAT nástroja. Bolo označených 250 forografii, na ktorých bolo 1903 tvári. 
@@ -26,4 +33,6 @@ git clone https://github.com/deepinsight/insightface
 
 [2] https://github.com/deepinsight/insightface
 
-[2] http://dlib.net/
+[3] http://dlib.net/
+
+[4] https://github.com/ipazc/mtcnn
