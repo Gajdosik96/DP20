@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ## Párovanie
   Párovanie pravdivej a výstupnej zložky detektora prebehlo pomocou naimplementovaných funkcii. Na párovanie sme vytvorili korelačnú maticu. 
   
-  **Vizualizácia**
+## Vizualizácia
   
   Na vizualizáciu výsledkov sme využili knižnicu *Plotly* [4](https://plotly.com/python/).  
 
