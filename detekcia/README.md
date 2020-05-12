@@ -26,7 +26,7 @@ pip install -r requirements.txt
   
 ## Vizualizácia
   
-  Na vizualizáciu výsledkov sme využili knižnicu *Plotly* [5](https://plotly.com/python/).  
+  Na vizualizáciu výsledkov sme využili knižnicu *Plotly* [[5](https://plotly.com/python/)].  
 
 ## Zdroj
 [1] https://github.com/opencv/cvat
