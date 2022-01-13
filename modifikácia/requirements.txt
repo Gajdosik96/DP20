@@ -8,7 +8,7 @@ requests==2.22.0
 opencv_python==4.1.1.26
 ffmpeg==1.4
 ipython==7.13.0
-Pillow==7.1.1
+Pillow==9.0.0
 jupyter-client==5.3.4
 jupyter-core==4.6.1
 jupyterlab==1.2.3
