@@ -3,7 +3,7 @@ youtube_dl==2019.11.5
 fastai==1.0.58
 matplotlib==3.1.1
 torchvision==0.4.2
-numpy==1.18.1
+numpy==1.22.0
 requests==2.22.0
 opencv_python==4.1.1.26
 ffmpeg==1.4
